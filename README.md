@@ -1,5 +1,5 @@
-#Namaste React 
-#EatClub
+#React Application
+#Swiggy food deliver app
 
 /**
  * Header
